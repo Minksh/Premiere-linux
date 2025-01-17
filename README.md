@@ -42,3 +42,10 @@ You are now ready to use OpenCL, just don't forget to enable it under File> Proj
 
 Please post it to the issues tab! I will update the guide and/or install script!
 
+# Q&A
+
+## Why do you use the opengl32 dll from Windows? 
+The builtin version of opengl32 may cause non functional video previews. 
+
+
+
