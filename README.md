@@ -1,6 +1,8 @@
 # Premiere-linux
 Bash script/guide for running Adobe Premiere on Linux distributions based on https://forum.mattkc.com/viewtopic.php?t=337 (Thanks Lego Island guy)
 
+# A Windows 10 install / or files from the system32 folder are required.
+
 ## What's working?
 
 - [x] Mercury Playback Engine (Partial) OpenCL on AMD/Intel(?)/Nvidia(?) GPUs (Nvidia should use CUDA instead) (Check the forum link)
