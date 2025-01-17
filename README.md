@@ -1,5 +1,5 @@
 # Premiere-linux
-Bash script/guide for running Adobe Premiere on Linux distributions based on https://forum.mattkc.com/viewtopic.php?t=337 (Thanks Lego Island guy)
+Bash script/guide for running Adobe Premiere on Linux distributions partially based on https://forum.mattkc.com/viewtopic.php?t=337 (Thanks Lego Island guy)
 
 # A Windows 10 install / or files from the system32 folder are required.
 
